@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
