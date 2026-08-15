@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0494-target-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
