@@ -11,9 +11,7 @@ class Solution {
 public:
     int distinctSubseqII(string s) {
         int n = s.size();
-
         vector<int> curr(27, 0), next(27, 1);
-
         for (int idx = n - 1; idx >= 0; idx--) {
             for (int prev = 0; prev <= 26; prev++) {
                 int a = next[prev];
@@ -23,7 +21,6 @@ public:
             }
             next = curr;
         }
-
         int ans = curr[26];
         return (ans - 1 + MOD) % MOD;
     }
