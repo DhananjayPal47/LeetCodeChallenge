@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
 | ------- |
