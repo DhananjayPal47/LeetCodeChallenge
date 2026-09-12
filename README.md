@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Tree
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0494-target-sum) |
+| [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3634-minimum-removals-to-balance-array) |
 ## Backtracking
 |  |
@@ -87,12 +89,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3634-minimum-removals-to-balance-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
