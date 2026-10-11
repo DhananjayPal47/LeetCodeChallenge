@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3634-minimum-removals-to-balance-array) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
