@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0494-target-sum) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3634-minimum-removals-to-balance-array) |
 ## Backtracking
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0940-distinct-subsequences-ii](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
