@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 ## Math
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0940-distinct-subsequences-ii](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
