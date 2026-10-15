@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0494-target-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Memoization
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0494-target-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0658-find-k-closest-elements](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3634-minimum-removals-to-balance-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
@@ -82,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## String
 |  |
 | ------- |
