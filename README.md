@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/3870-count-commas-in-range) |
 ## Enumeration
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0940-distinct-subsequences-ii](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
+| [2409-count-days-spent-together](https://github.com/DhananjayPal47/LeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
 |  |
 | ------- |
